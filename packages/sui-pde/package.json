@@ -17,7 +17,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@optimizely/optimizely-sdk": "4.9.4",
+    "@optimizely/optimizely-sdk": "4.10.0",
     "@s-ui/js": "2"
   },
   "peerDependencies": {
